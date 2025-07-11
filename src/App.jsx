@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>Hola :D!</div>
+      <div>Esta es una prueba para el curso de transis!</div>
     </>
   );
 }
